@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @IronHide97(Shubham Sharma).
+- 👋 Hi, I’m @IronHide97 (Shubham Sharma).
 Experienced System Designer with a demonstrated history of working in the semiconductors industry.
 Skilled in IoT, Embedded Systems, PCB designing, KiCAD, Raspberry Pi, Arduino, ESP32.
 Proficient in MQTT, ZigBee network, Wi-Fi.
